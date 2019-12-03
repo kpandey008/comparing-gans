@@ -1,0 +1,10 @@
+random_seed: 2019
+learning_rate: 0.0001
+code_size: 64
+num_epochs: 50
+log_step: 100
+k: 1
+c: 0.01
+reg_param: 10
+recon_loss_param: 0.1
+batch_size: 64
